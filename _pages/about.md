@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: About
-layout: single
+layout: splash
 author_profile: true
 ---
 
