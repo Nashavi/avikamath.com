@@ -57,8 +57,8 @@ Worked on multiple projects that involved data analysis on supply chain, invento
 ## EDUCATION
 
 ### University of Colorado, Denver, CO
-_Master of Business Analytics (Data Science, Big Data)_
-_Aug 2015 – Dec 2016_  (GPA: 3.75/4.0)_ 
+_Master of Business Analytics (Data Science, Big Data)
+Aug 2015 – Dec 2016_ 
  
 ### Chartered Accountant (US CPA Equivalent from India)
 _July 2004 – June 2009_
@@ -67,5 +67,5 @@ _July 2004 – June 2009_
 _June 2011 – June 2012_
 
 ### Mahatma Gandhi University, Kottayam, Kerala
-_Bachelor of Commerce (Business)_
-_July 2004 – Sept 2008_
+_Bachelor of Commerce (Business)
+July 2004 – Sept 2008_
