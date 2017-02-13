@@ -4,7 +4,7 @@ header:
   overlay_filter: 0.3 
   caption: "Photo Credits: Avinash Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
-excerpt: "_This post was originally posted in[medium](https://medium.com/@avi.k?source=post_header_lockup)_"
+excerpt: "_This post was originally posted in [medium](https://medium.com/@avi.k?source=post_header_lockup)_"
 updated: 2016-10-28
 ---
 
