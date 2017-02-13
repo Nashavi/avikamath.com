@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 layout: single
 author_profile: true
 ---
-  
-  
+
+## About
 
 Hi there.
 
