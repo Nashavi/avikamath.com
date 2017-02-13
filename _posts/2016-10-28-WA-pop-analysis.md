@@ -4,10 +4,9 @@ header:
   overlay_filter: 0.3 
   caption: "Photo Credits: Avinash Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
+excerpt: "_This post was originally posted in [medium](https://medium.com/@avi.k?source=post_header_lockup)_"
 updated: 2016-10-28
 ---
-
-_This post was originally posted in [medium](https://medium.com/@avi.k?source=post_header_lockup)_
 
 After moving to the greater Seattle area this summer, I have been exploring the pacific northwest a lot. I heard a lot about the exploding prices of homes and rental properties and how comparable Seattle has become to the Bay Area. With major tech companies such as Microsoft, Amazon and several startups having Greater Seattle Area as their base, this growth didn’t seem that surprising to anyone who spoke about it. While I agree this has to be true, I wondered how this growth was spread out around Puget Sound area, over time. I kept thinking about how the population growth around Seattle must have spilled over leading to eventual growth in neighboring areas. Therefore, I decided to analyze and decipher population growth and its pattern across Washington State.
 
