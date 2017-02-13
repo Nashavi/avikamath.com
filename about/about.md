@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: page
 title: "About"
 date: 2017-01-23
 ---
