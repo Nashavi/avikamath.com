@@ -2,7 +2,7 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Resume"
+    url: /aviresume/
   - title: "About"
-    url: /_pages/about.md
-  - title: "About"
-    url: https://google.com
+    url: /about/
