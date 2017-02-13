@@ -1,6 +1,7 @@
 ---
-title: About
 permalink: /about/
+title: About
+author_profile: true
 ---
 
 Hi there.
