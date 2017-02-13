@@ -6,7 +6,5 @@ main:
     url: /_posts/
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
   - title: "External Link"
     url: https://google.com
