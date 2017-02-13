@@ -9,8 +9,8 @@ layout: splash
 Data Science Professional with five years of experienced in data story telling, statistical analysis, data mining, NLP, pattern recognition, machine learning models and data visualization Experience includes widely travelling and working out multiple countries in Asia, Africa and America with proven track record of delivering high profile solutions in varied business disciplines 
  
 ## TECHNICAL SKILLS
-| ------------------------------------------- | ----------------------------------------------------- |
-| Programming | R, Python, Spark, SQL, Java, AMPL, C# |
+
+| Programming                     | R, Python, Spark, SQL, Java, AMPL, C#                                         |
 | Data visualization | ggplot2, Shiny, Plotly, Matplotlib, PowerBI |
 | Analytical Tools | SSAS, JMP, Alteryx, SAS/ JMP, Tableau |
 | Cloud Services | Azure (SQL, Logic Apps, ML), AWS (ML) |
