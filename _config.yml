@@ -80,14 +80,14 @@ author:
   name             : "Avi Kamath"
   avatar           : "/assets/images/aviphoto.jpg"
   bio              : "Seasoned version Business Analyst. Beta version Data Scientist. Alpha version Computer Engineer."
-  location         : "Redmond, WA"
+  location         : #"Redmond, WA"
   email            : avinash.g.kamath@gmail.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : avinash.kamath.10
+  facebook         : "avinash.kamath.10"
   foursquare       :
   github           : "Nashavi"
   google_plus      :
