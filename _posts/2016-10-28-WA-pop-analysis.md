@@ -1,7 +1,8 @@
 ---
 excerpt: "Analyzing the population growth in Washington State from 1990 to 2016 using R"
 header: 
-  overlay_image: /assets/images/Seattle_Pic2.jpg
+  overlay_image: /assets/images/Seattle_Pic.jpg
+  overlay_filter: 0.5 
   caption: "Photo Credits: Avinash Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
 updated: 2016-10-28
