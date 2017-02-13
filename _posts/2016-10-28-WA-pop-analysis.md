@@ -2,8 +2,9 @@
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
 updated: 2016-10-28
 ---
-![mypic](https://cdn-images-1.medium.com/max/1000/1*eIITiGw7fpg8dQ5K0Bcf2A.jpeg)
-Photo Credits: Avinash Kamath
+header: 
+image: ![mypic](https://cdn-images-1.medium.com/max/1000/1*eIITiGw7fpg8dQ5K0Bcf2A.jpeg)
+caption: "Photo Credits: Avinash Kamath"
 
 This post was riginally posted in [medium](https://medium.com/@avi.k?source=post_header_lockup)
 
