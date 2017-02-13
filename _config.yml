@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Data Science"
+title_separator          : "- For the data is dark and full of errors"
 name                     : "Avi Kamath"
-description              : "Data Science - For the data is dark and full of errors"
+description              : "Blog by Avi"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
