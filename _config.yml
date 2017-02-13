@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "For the data is dark and full of errors. Hence, Data Science"
-title_separator          : "- For the data is dark and full of errors"
+title_separator          : "For the data is dark and full of errors"
 name                     : "Avi Kamath"
 description              : "Blog by Avi"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Avi Kamath"
   avatar           : "/assets/images/aviphoto.jpg"
-  bio              : "A Beta version of Data Scientist, Alpha version of Computer Engineer, Polished version of Business Analyst"
+  bio              : "A Beta version of Data Scientist, Alpha version of Computer Engineer, Seasoned version of Business Analyst"
   location         : "Redmond, WA"
   email            : avinash.g.kamath@gmail.com
   uri              :
