@@ -4,7 +4,8 @@ title: "About"
 layout: single
 author_profile: true
 ---
-
+   
+     
 Hi there.
 
 I'm a data enthusiast based out of Seattle, WA.
