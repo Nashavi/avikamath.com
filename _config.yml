@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Data Science"
-title_separator          : "For the data is dark and full of errors"
+title                    : "Avi Kamath"
+title_separator          : # ""
 name                     : "Avi Kamath"
 description              : "Blog by Avi"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Avi Kamath"
   avatar           : "/assets/images/aviphoto.jpg"
-  bio              : "A Beta version of Data Scientist, Alpha version of Computer Engineer, Seasoned version of Business Analyst"
+  bio              : "Seasoned version Business Analyst. Beta version Data Scientist. Alpha version Computer Engineer."
   location         : "Redmond, WA"
   email            : avinash.g.kamath@gmail.com
   uri              :
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : avinash.kamath.10
   foursquare       :
   github           : "Nashavi"
   google_plus      :
