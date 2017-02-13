@@ -1,7 +1,11 @@
 ---
+header: 
+  image: /assets/images/Seattle_Pic.jpg
+  caption: "Photo Credits: Avinash Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
 updated: 2016-10-28
 ---
+
 ![mypic](https://cdn-images-1.medium.com/max/1000/1*eIITiGw7fpg8dQ5K0Bcf2A.jpeg)
 Photo Credits: Avinash Kamath
 
