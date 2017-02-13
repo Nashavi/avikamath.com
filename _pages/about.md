@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-layout: archive
+layout: single
+author_profile: true
 ---
 
 Hi there.
