@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 ---
 
-# PROFESSIONAL PROFILE
+## PROFESSIONAL PROFILE
 
-I am a Data Analytics Professional experienced in data story telling, statistical analysis, data mining, NLP, pattern recognition, machine learning models and data visualization. My experience of over 4 years ranges from data analysis for problem-solving, writing code, managing teams to interfacing with multiple stakeholders to deliver solutions. My work experience includes working with major global companies while widely traveling and working out multiple countries in India, Malaysia, Philippines, China, Hong Kong, South Africa and United States with proven track record of delivering high profile solutions in varied business disciplines. I am highlt passionate about building products and solving customer and business problems
-
- 
-# TECHNICAL SKILLS
+I am a Data Analytics Professional experienced in data story telling, statistical analysis, data mining, NLP, pattern recognition, machine learning models and data visualization. My experience of over 4 years ranges from data analysis for problem-solving, writing code, managing teams to interfacing with multiple stakeholders to deliver solutions. My work experience includes working with major global companies while widely traveling and working out multiple countries in India, Malaysia, Philippines, China, Hong Kong, South Africa and United States with proven track record of delivering high profile solutions in varied business disciplines. I am highlt passionate about building products and solving customer and business problems  
+  
+  
+## TECHNICAL SKILLS
 
 | Programming        | R, Python, Spark, SQL, Java, AMPL, C#                                                    |
 | Data visualization | ggplot2, Shiny, Plotly, Matplotlib, PowerBI |
@@ -20,10 +20,11 @@ I am a Data Analytics Professional experienced in data story telling, statistica
 | Business Analysis Tools | Microsoft Visio, ARIS |
 | Project management Tools | MS Project, JIRA |
 | Other | Microsoft Visual Studio, Git, Bash, Databricks, Jupyter |
-
+  
+  
 ## PROFESSIONAL EXPERIENCE
 
-#### Data Scientist, Data Services Team, Pactera Technologies
+### Data Scientist, Data Services Team, Pactera Technologies
 _July 2016 to present  
 Redmond, WA_
 
@@ -57,7 +58,8 @@ Bangalore, India_
 
 - Worked on multiple projects that involved data analysis on supply chain, inventory management and reporting processes to recommend process improvement solutions for identified process inefficiencies  
 - Assisted in forensic investigation to identify procurement frauds such as bid rigging, vendor kickbacks and conflicts of interest through text analytics, employee interviews, background checks and electronic discovery 
- 
+   
+     
 ## EDUCATION
 
 ### University of Colorado, Denver, CO
