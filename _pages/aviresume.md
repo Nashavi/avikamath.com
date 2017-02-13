@@ -2,6 +2,7 @@
 permalink: /aviresume/
 title: "Resume"
 layout: single
+author_profile: true
 ---
 
 ## PROFESSIONAL PROFILE
