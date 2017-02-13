@@ -23,7 +23,7 @@ Data Science Professional with five years of experienced in data story telling, 
 
 ### Data Scientist, Data Services Team, Pactera Technologies
 _July 2016 to present  
-Redmond, WA
+Redmond, WA_
 
 Built a machine learning model using SVM and Naïve-Bayes algorithm to resolve email overloading issue for a multinational technology company to filter out emails that do not require any responses achieving a precision of 0.95. The model also enabled identification and auto-queuing of customer emails based on their type of requests
 Performed topic modelling and unsupervised clustering using LDA on customer conversation logs and feedbacks to enhance visibility on issues, improve customer service and save costs for a software development company
@@ -31,27 +31,27 @@ Performed data clean up, data transformation and datamining on country-wise sale
  
 ### Business Analyst Intern, Data Analytics, SpenDifference
 _May 2016 – July 2016  
-Denver, CO
+Denver, CO_
 
 Used data mining and statistical methodologies to recognize price patterns and classify commodities into clusters in order to reason out for the price fluctuations and creating an edge while negotiating for prices with vendors
 Developed and implemented a strategic purchasing process based on a decision tree model to predict item prices resulting in improved visibility on when to enter into a forward contract and at what price point 
  
 ###  Senior Consultant, Wipro Consulting, Wipro Ltd
 _December 2012 – August 2015  
-Bangalore, India
+Bangalore, India_
 
 Involved in project management and delivery for several data analysis projects to provide recommendations on defining and implementing Target Operating Models, Process Standardizations, Conflict Management, Risk Management
 Required extensive international travel, analytical problem solving skills, data storytelling, business communication and presentation skills 
  
 ### Senior, Advisory Services, KPMG
 _June 2011 – November 2011  
-Bangalore, India
+Bangalore, India_
 
 Project lead to develop model business processes and standard operating procedures for multiple business processes 
  
 ### Associate Consultant, Advisory Services, Ernst & Young
 _January 2010 – June 2011  
-Bangalore, India
+Bangalore, India_
 
 Worked on multiple projects that involved data analysis on supply chain, inventory management and reporting processes to recommend process improvement solutions for identified process inefficiencies  Assisted in forensic investigation to identify procurement frauds such as bid rigging, vendor kickbacks and conflicts of interest through text analytics, employee interviews, background checks and electronic discovery 
  
@@ -59,7 +59,7 @@ Worked on multiple projects that involved data analysis on supply chain, invento
 
 ### University of Colorado, Denver, CO
 _Master of Business Analytics (Data Science, Big Data)  
-Aug 2015 – Dec 2016 
+Aug 2015 – Dec 2016_
  
 ### Chartered Accountant (US CPA Equivalent from India)
 _July 2004 – June 2009_
@@ -69,4 +69,4 @@ _June 2011 – June 2012_
 
 ### Mahatma Gandhi University, Kottayam, Kerala
 _Bachelor of Commerce (Business)  
-July 2004 – Sept 2008
+July 2004 – Sept 2008_
