@@ -1,12 +1,11 @@
 ---
 permalink: /about/
-title: "Hello!" </br>
+title: "Hello!"
 layout: single
 author_profile: true
 ---
-   
-     
- 
+
+</Br>
  
 I'm a data enthusiast based out of Seattle, WA.
 
