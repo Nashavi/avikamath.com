@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Hello!" </br>
 layout: single
 author_profile: true
 ---
