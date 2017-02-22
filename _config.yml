@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Avi Kamath"
+  name             : "Avi Kamath aaaaaaaaaaa aaaaaaa\naa\na aaa aaaaa aaaaa aaaa"
   avatar           : "/assets/images/aviphoto.jpg"
   bio              : |
-            Seasoned version Business Analyst.
-            Beta version Data Scientist.
+            Seasoned version Business Analyst.  
+            Beta version Data Scientist.  
             Alpha version Computer Engineer.
   location         : #"Redmond, WA"
   email            : avinash.g.kamath@gmail.com
