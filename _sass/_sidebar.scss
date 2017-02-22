@@ -111,6 +111,7 @@
   }
 }
 .sidebar .author__name {
+  vertical-align: middle;
   font-family: $sans-serif;
   font-size: $type-size-5;
 }
@@ -133,6 +134,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
+  font-size: $type-size-8;
   z-index: 10;
   position: relative;
   cursor: pointer;
