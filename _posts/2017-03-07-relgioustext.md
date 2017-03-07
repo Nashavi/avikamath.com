@@ -4,7 +4,7 @@ header:
   overlay_filter: 0.3 
   caption: "Photo Credits: http://friendshipchristianchurch.org"
 title: Mining for Sentiments and Ideas in Religious Books
-excerpt: "The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching. How do they compare to each other"
+excerpt: "The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching. How do they compare to each other?"
 updated: 2017-03-07
 ---
 
