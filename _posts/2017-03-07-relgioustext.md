@@ -26,7 +26,7 @@ Since these sacred books are not originally in English I relied on translation b
 The above chart shows the changes in net sentiments as we proceed through each sections of the sacred texts. Each bar is indicative of a particular section in the text if the entire text was scaled to be at 100.
 
 - The Bhagavad Gita starts off with negative sentiments. These refer to _Chapter one: The Despondency of Arjuna_ and initial sections of _Chapter Two: The Philosophy of Discrimination_ where Arjuna gets dejected as he fears losing friends and relatives as a consequence of the Mahabharata war. In the initial sections of Chapter Two, Lord Krishna consoles Arjuna.
-- The KJV sections 62% - 67% is a section comprising of highly negative sentiments. These sections comprise of :
+- The KJV sections 62% - 67% is a section comprising of highly negative sentiments. These sections comprise of:
   * _Jeremiah_, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy [<sup>1</sup>](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
   * _Lamentations_, poetic laments for the destruction of Jerusalem [<sup>2</sup>](https://en.wikipedia.org/wiki/Book_of_Lamentations)
 - In The Holy Quran the section 70%- 75% are also highly negative. This section refers to _Surah: Al Maidah_ verse: 27 to verse: 92 which comprises three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians. [<sup>3</sup>](http://englishtafsir.com/Quran/5/index.html)
