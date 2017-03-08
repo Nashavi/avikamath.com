@@ -43,7 +43,7 @@ The Bhagavad Gita comprises a net positive sentiment where The King James Bible 
 
 Clearly, from the above plot, there are common ideas across these religions. Let's look at the common negative and positive words separately to get a better idea out of them. The plot below indicates sentiments that are common among all text.
 
-![Commonsentimentsradar](/assets/images/Common Sentiments Radar.jpeg)
+![Commonsentimentsradar](/assets/images/Common Sentiments Radar2.jpeg)
 
 ### Differentiators of each text (TF-IDF)
 
