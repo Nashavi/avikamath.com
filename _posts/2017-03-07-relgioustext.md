@@ -57,9 +57,7 @@ As expected these unique word are mostly nouns. However it helps to shed light o
 
 A graphical visualization of bi-gram (sequence of two adjacent words) should also give some unique ideas in each of these texts.
 
-<figure style="width: 1200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bigram Graph.jpeg" alt="">
-</figure> 
+![Bi-gram Graph](/assets/images/Bigram Graph2.jpeg)
 
 Only top 50 bigrams are used to create the above plot. It is possible to create more complex relationships where all the words in the text are chained with each other. The darkness of the arrows indicate stronger relationships between the words. 
 
@@ -68,3 +66,5 @@ The Bhagavad Gita forms a cluster of words around ‘thy’, ‘thou’ indicati
 ### Conclusion
 
 Any text analytics project requires extensive cleaning. In this case, the input data was fairly cleaner than a real life text data say from an email/ im/text messages. Still, I could have added to the accuracy of the measures I used by stemming the words before analyzing them, standardizing the words by replacing them with common synonyms. I could even go a step ahead by using a part of speech tagging in order to identify the nouns, adjective, verbs in sentences that is available through OpenNLP or qdap packages. 
+
+All the work above was done in R and the entire code is available in [my github account](https://github.com/Nashavi/ReligionStudy)
