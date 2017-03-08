@@ -1,6 +1,6 @@
 ---
 header: 
-  overlay_image: /assets/images/religions.png
+  overlay_image: /assets/images/religions.jpg
   overlay_filter: 0.3 
   caption: "Photo Credits: http://friendshipchristianchurch.org"
 title: Mining for Sentiments and Ideas in Religious Books
