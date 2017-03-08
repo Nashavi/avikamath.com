@@ -15,14 +15,8 @@ Experience includes widely travelling and working out multiple countries in Asia
 
 | Programming        | R, Python, Spark, SQL, Java, AMPL, C#                                                    |
 | Data visualization | ggplot2, Shiny, Plotly, Matplotlib, PowerBI, Tableau  |
-| Analytical Tools | SSAS, JMP, Alteryx, SAS/ JMP, Tableau |
 | Cloud Services | Azure (HDInsight, ML), AWS (Redshift, EC2, S3) |
-| Microsoft Office | Expert in MS PowerPoint, Excel, Word |
 | Other Techincal Tools| Microsoft Visual Studio, Git, Bash, Databricks, Jupyter |
-| Business Analysis Tools | Microsoft Visio, ARIS |
-| Project management Tools | MS Project, JIRA |
-
-  
   
 ## PROFESSIONAL EXPERIENCE
 
@@ -33,7 +27,6 @@ Redmond, WA_
 - Built a machine learning model using SVM algorithm to resolve email overloading issue for a multi-national technology company to filter out emails that do not require any responses achieving a precision of 0.95. The model also enabled identification and auto-queuing of customer emails based on their type of requests.
 - Performed topic modelling and unsupervised clustering using LDA on customer conversation logs and feedbacks to enhance visibility on issues, improve customer service and save costs for a software development company
 -	Used SQL to query for large datasets and performed data clean up, data transformation and datamining on country-wise sales of a major silicon chips manufacturing company and extracted features from internal and external sources to develop a random forest model to predict the market size in each region/ country
--	Performed t-tests to compare the performance of new feature of localization vs. old generic site. A/B tests showed 10% drop in conversion rate if new localization feature would be applied to the website
 - Utilized data analytics to identify areas and geographies for future marketing campaigns and training investments that can lead to best ROI
  
 ### Business Analyst Intern, SpenDifference LLC
