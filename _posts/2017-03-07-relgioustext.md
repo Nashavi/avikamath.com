@@ -27,7 +27,7 @@ The above chart shows the changes in net sentiments as we proceed through each s
 
 - The Bhagavad Gita starts off with negative sentiments. These refer to _Chapter one: The Despondency of Arjuna_ and initial sections of _Chapter Two: The Philosophy of Discrimination_ where Arjuna gets dejected as he fears losing friends and relatives as a consequence of the Mahabharata war. Initial sections of Chapter Two section is where Lord Krishna consoles him.
 - The KJV sections 62% - 67% is a section comprising of highly negative sentiments. These sections comprise of :
-  * _Jeremiah_, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy[source](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
+  * _Jeremiah_, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy[^1^](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
   * _Lamentations_, poetic laments for the destruction of Jerusalem
 - In The Holy Quran the section 70%- 75% are also highly negative. This section refers to _Surah: Al Maidah_ verse: 27 to verse: 92 which comprises three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians.
 
@@ -51,7 +51,7 @@ Moving away from sentiments, lets see what words that are unique to each text. F
 
 ![Topuniquewords](/assets/images/Top Unqiue words.jpeg)
 
-As expected these unique word are mostly nouns. However it helps to shed light on some major ideas that are unique to each religion. ‘Renunciation’, ‘Self-knowledge’, ‘intellect’ are some of the recurring ideas in Hinduism. It also points out the archaic usage of the word ‘spake’ in The King James Bible. The Quran has its most of its unique ideas around Allah being the protector, oft-forgiving correctly identified. It would be easier to catch on the unique ideas from The Tao Te Ching since it does not have any character names/proper nouns.
+As expected these unique word are mostly nouns. However it helps to shed light on some major ideas that are unique to each religion. ‘Renunciation’, ‘Self-knowledge’, ‘intellect’ are some of the recurring ideas in Hinduism. It also points out the archaic usage of the word ‘spake’ in The King James Bible. The Quran has its most of its unique ideas around Allah being the protector, oft-forgiving correctly identified. It would be easier to catch on the unique ideas from The Tao Te Ching since it does not have any character names/ proper nouns.
 
 ### Associations among words
 
