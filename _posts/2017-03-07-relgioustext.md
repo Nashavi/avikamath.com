@@ -25,11 +25,11 @@ Since these sacred books are not originally in English I relied on translation b
 
 The above chart shows the changes in net sentiments as we proceed through each sections of the sacred texts. Each bar is indicative of a particular section in the text if the entire text was scaled to be at 100.
 
-- The Bhagavad Gita starts off with negative sentiments. These refer to Chapter one: The Despondency of Arjuna and initial sections of Chapter Two: The Philosophy of Discrimination where Arjuna gets dejected as he fears losing friends and relatives as a consequence of the Mahabharata war. Initial sections of Chapter Two section is where Lord Krishna consoles him.
+- The Bhagavad Gita starts off with negative sentiments. These refer to _Chapter one: The Despondency of Arjuna_ and initial sections of _Chapter Two: The Philosophy of Discrimination_ where Arjuna gets dejected as he fears losing friends and relatives as a consequence of the Mahabharata war. Initial sections of Chapter Two section is where Lord Krishna consoles him.
 - The KJV sections 62% - 67% is a section comprising of highly negative sentiments. These sections comprise of :
-  * Jeremiah, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy [source](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
-  * Lamentations, poetic laments for the destruction of Jerusalem
-- In The Holy Quran the section 70%- 75% are also highly negative. This section refers to Surah: Al Maidah verse: 27 to verse: 92 which comprises three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians.
+  * _Jeremiah_, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy[source](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
+  * _Lamentations_, poetic laments for the destruction of Jerusalem
+- In The Holy Quran the section 70%- 75% are also highly negative. This section refers to _Surah: Al Maidah_ verse: 27 to verse: 92 which comprises three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians.
 
 ### Negative vs Positive sentiments
 
@@ -47,7 +47,7 @@ Clearly, from the above plot, there are common ideas across these religions. Let
 
 ### Differentiators of each text (TF-IDF)
 
-Moving away from sentiments, lets see what words that are unique to each text. For this purpose, we would use TF-IDF which is a statistical measure to determine the importance of a word to a specific document compared to its existence in other documents.
+Moving away from sentiments, lets see what words that are unique to each text. For this purpose, we would use [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) which is a statistical measure to determine the importance of a word to a specific document compared to its existence in other documents.
 
 ![Topuniquewords](/assets/images/Top Unqiue words.jpeg)
 
@@ -65,6 +65,6 @@ The Bhagavad Gita forms a cluster of words around ‘thy’, ‘thou’ indicati
 
 ### Conclusion
 
-Any text analytics project requires extensive cleaning. In this case, the input data was fairly cleaner than a real life text data say from an email/ im/text messages. Still, I could have added to the accuracy of the measures I used by stemming the words before analyzing them, standardizing the words by replacing them with common synonyms. I could even go a step ahead by using a part of speech tagging in order to identify the nouns, adjective, verbs in sentences that is available through OpenNLP or qdap packages. 
+Any text analytics project requires extensive cleaning. In this case, the input data was fairly cleaner than a real life text data say from an email/ im/ text messages. Still, I could have added to the accuracy of the measures I used by stemming the words before analyzing them, standardizing the words by replacing them with common synonyms. I could even go a step ahead by using a part of speech tagging in order to identify the nouns, adjective, verbs in sentences that is available through OpenNLP or qdap packages. 
 
 All the work above was done in R and the entire code is available in [my github account](https://github.com/Nashavi/ReligionStudy)
