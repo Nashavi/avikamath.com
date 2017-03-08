@@ -44,7 +44,7 @@ As the next step, I plotted the city-wise data to understand these trends better
 
 ![finaloutput](https://cdn-images-1.medium.com/max/1000/0*DpwB_DY0AB3SgCK9.png)
 
-<div markdown="0"><a href="#" class="btn">**[Click here to view the population growth as an animated graph](http://nashavi.shinyapps.io/WA_State-Population_Growth/)**</a></div>
+<div markdown="0"><a href="http://nashavi.shinyapps.io/WA_State-Population_Growth/" class="btn btn--success">Click here to view the population growth as an animated graph</a></div>
 
 _Use the ‘play’ icon to see the animation. You can zoom into any part of Washington state and move the slider manually to see the year-wise growth._
 
