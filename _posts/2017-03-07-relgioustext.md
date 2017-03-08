@@ -43,9 +43,10 @@ The Bhagavad Gita comprises a net positive sentiment where The King James Bible 
 
 Clearly, from the above plot, there are common ideas across these religions. Let's look at the common negative and positive words separately to get a better idea out of them. The plot below indicates sentiments that are common among all text.
 
-<figure style="width: 677px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Common Sentiments Radar2.jpeg" alt="">
+<figure style="width: 677px; height: 1500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Common Sentiments Radar2.jpg" alt="">
 </figure> 
+
 ### Differentiators of each text (TF-IDF)
 
 Moving away from sentiments, lets see what words that are unique to each text. For this purpose, we would use TF-IDF which is a statistical measure to determine the importance of a word to a specific document compared to its existence in other documents.
