@@ -64,5 +64,5 @@ This analysis helped me understand and visualize the basic growth pattern across
 
 There is much more one can analyze and drill into with this raw dataset. I will save that for another day.
 
-All the R code I wrote to generate the plots and map above are available in [my github account](http://github.com/Nashavi/WA_Pop_Analysis)
+All the R code I wrote to generate the plots and map above are available in [my github](http://github.com/Nashavi/WA_Pop_Analysis)
 
