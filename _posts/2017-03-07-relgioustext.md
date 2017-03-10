@@ -67,4 +67,4 @@ The Bhagavad Gita forms a cluster of words around ‘thy’, ‘thou’ indicati
 
 Any text analytics project requires extensive cleaning. In this case, the input data was fairly cleaner than a real life text data say from an email/ im/ text messages. Still, I could have added to the accuracy of the measures I used by stemming the words before analyzing them, standardizing the words by replacing them with common synonyms. I could even go a step ahead by using a part of speech tagging in order to identify the nouns, adjective, verbs in sentences that is available through OpenNLP or qdap packages. 
 
-All the work above was done in R and the entire code is available in [my github account](https://github.com/Nashavi/ReligionStudy)
+All the work above was done in R and the entire code is available in [my github](https://github.com/Nashavi/ReligionStudy)
