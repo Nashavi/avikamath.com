@@ -5,6 +5,7 @@ header:
   caption: "Photo Credits: Avinash Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
 excerpt: "Visualizations and insights on population explosion in the Pacific Northwest"
+comments: true
 updated: 2016-10-28
 ---
 
