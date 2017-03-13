@@ -3,7 +3,7 @@ header:
   overlay_image: /assets/images/Seattle_Pic.jpg
   teaser: /assets/images/Seattle_Pic.jpg
   overlay_filter: 0.3 
-  caption: "Photo Credits: Avinash Kamath"
+  caption: "Photo Credits: Avi Kamath"
 title: Analyzing the population growth in Washington State from 1990 to 2016 using R
 excerpt: "Visualizations and insights on population explosion in the Pacific Northwest"
 comments: true
