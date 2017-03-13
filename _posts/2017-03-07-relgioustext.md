@@ -1,6 +1,7 @@
 ---
 header: 
   overlay_image: /assets/images/religions.jpg
+  teaser: /assets/images/religions.jpg
   overlay_filter: 0.3 
   caption: "Photo Credits: http://friendshipchristianchurch.org"
 title: Mining for Sentiments and Ideas in Religious Books
@@ -9,13 +10,13 @@ comments: true
 updated: 2017-03-07
 ---
 
-Text analytics is the process of analyzing unstructured raw data, extracting relevant information from it and transforming it into useful business information.   Text Analytics has a wide range of application from ranging sentiment analysis, creating spam filters , automatic ad placements, social media monitoring to extracting competitive intelligence, national security, competitive intelligence and scientific discovery.
+**The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching!** These 4 religious texts come from 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. These religions have evolved over time, defined cultures and to a certain extent even defined political boundries. Have these realigions really been so well-defined and different from each other? Dont they all have the same philosophies? Dont they all emphasise on similar ideas? I wanted to make a comparative analysis of these 4 texts, understand the ideas they emphasise on, extract sentiments and associations. Enter text analytics!
 
 {% include toc title="Text Mining Religious Books" icon="file-text" %}
 
-A recently released package [tidytext](http://tidytextmining.com/) by [Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob) for R has some awesome incredible capabilities to do some heavy lifting with text. So I decided to try it out myself and learn some things by doing some text mining on religious texts. The idea was to get used to the package as well as get to understand some philosophical ideas from these sacred texts.
+Text analytics is the process of analyzing unstructured raw data, extracting relevant information from it and transforming it into useful business information. Text Analytics has a wide range of application from ranging sentiment analysis, creating spam filters , automatic ad placements, social media monitoring to extracting competitive intelligence, national security, competitive intelligence and scientific discovery.
 
-The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching! These 4 religious texts come from the 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. I wanted to make a comparative analysis of these 4 texts, understand the ideas they stress on, extract sentiments and associations.
+<h6>A recently released package [tidytext](http://tidytextmining.com/) by [Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob) for R has some awesome incredible capabilities to do some heavy lifting with text. This mini-project was also a way to get used to this package while understanding some philosophical ideas from these sacred texts.</h6>
 
 Since these sacred books are not originally in English I relied on translations by Shri Purohit Swami for [The Bhagavad Gita](http://www.ulc.org/wp-content/uploads/2012/10/Bhagavad-Gita.pdf), Abdullah Yusuf Ali for [The Holy Quran](http://streathammosque.org/uploads/quran/english-quran-yusuf-ali.pdf), The Project Gutenberg Edition for [The King James Bible](http://www.gutenberg.org/cache/epub/10/pg10.txt), James Legge for [The Tao Te Ching](http://www.gutenberg.org/cache/epub/216/pg216.txt). **_The analysis is completely done as a research and I have tried to provide an unbiased representation of the results of data mining._**
 
