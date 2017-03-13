@@ -3,7 +3,7 @@ header:
   overlay_image: /assets/images/religions.jpg
   teaser: /assets/images/religions.jpg
   overlay_filter: 0.3 
-  caption: "Photo Credits: http://friendshipchristianchurch.org"
+  caption: "Photo Credits: [friendshipchristianchurch](http://friendshipchristianchurch.org)"
 title: Mining for Sentiments and Ideas in Religious Books
 excerpt: "The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching. How do they compare to each other?"
 comments: true
