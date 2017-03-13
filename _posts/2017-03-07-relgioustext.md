@@ -20,7 +20,7 @@ Text analytics is the process of analyzing unstructured raw data, extracting rel
 A recently released package [tidytext](http://tidytextmining.com/) by [Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob) for R has some awesome incredible capabilities to do some heavy lifting with text. This mini-project was also a way to get used to this package while understanding some philosophical ideas from these sacred texts.
 {% endcapture %}
 
-<div style="font-size:8px">
+<div style="font-size:12px">
   {{ notice-2 | markdownify }}
 </div>
 
