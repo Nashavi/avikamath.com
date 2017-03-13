@@ -13,11 +13,11 @@ Text analytics is the process of analyzing unstructured raw data, extracting rel
 
 {% include toc title="Text Mining Religious Books" icon="file-text" %}
 
-Talking in terms of R, a recently released package [tidytext](http://tidytextmining.com/) by [Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob) has some awesome incredible capabilities to do some heavy lifting with text. So I decided to try it out myself and learn some things by doing some text mining on religious texts. The idea was to get used to the package as well as get to understand some philosophical ideas from these sacred texts.
+A recently released package [tidytext](http://tidytextmining.com/) by [Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob) for R has some awesome incredible capabilities to do some heavy lifting with text. So I decided to try it out myself and learn some things by doing some text mining on religious texts. The idea was to get used to the package as well as get to understand some philosophical ideas from these sacred texts.
 
-The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching! These 4 religious texts come from 4 of the 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. I wanted to make a comparative analysis of these 4 texts, understand the ideas they stress on, extract sentiments and associations.
+The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching! These 4 religious texts come from the 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. I wanted to make a comparative analysis of these 4 texts, understand the ideas they stress on, extract sentiments and associations.
 
-Since these sacred books are not originally in English I relied on translation by Shri Purohit Swami for [The Bhagavad Gita](http://www.ulc.org/wp-content/uploads/2012/10/Bhagavad-Gita.pdf), Abdullah Yusuf Ali for [The Holy Quran](http://streathammosque.org/uploads/quran/english-quran-yusuf-ali.pdf), The Project Gutenberg Edition for [The King James Bible](http://www.gutenberg.org/cache/epub/10/pg10.txt), James Legge for [The Tao Te Ching](http://www.gutenberg.org/cache/epub/216/pg216.txt). _The analysis is completely done as a research and I have tried to provide an unbiased representation of the results of data mining._
+Since these sacred books are not originally in English I relied on translations by Shri Purohit Swami for [The Bhagavad Gita](http://www.ulc.org/wp-content/uploads/2012/10/Bhagavad-Gita.pdf), Abdullah Yusuf Ali for [The Holy Quran](http://streathammosque.org/uploads/quran/english-quran-yusuf-ali.pdf), The Project Gutenberg Edition for [The King James Bible](http://www.gutenberg.org/cache/epub/10/pg10.txt), James Legge for [The Tao Te Ching](http://www.gutenberg.org/cache/epub/216/pg216.txt). **_The analysis is completely done as a research and I have tried to provide an unbiased representation of the results of data mining._**
 
 ### Flow of Sentiments
 <figure style="width: 1200px">
@@ -27,10 +27,10 @@ Since these sacred books are not originally in English I relied on translation b
 The above chart shows the changes in net sentiments as we proceed through each sections of the sacred texts. Each bar is indicative of a particular section in the text if the entire text was scaled to be at 100.
 
 - The Bhagavad Gita starts off with negative sentiments. These refer to _Chapter one: The Despondency of Arjuna_ and initial sections of _Chapter Two: The Philosophy of Discrimination_ where Arjuna gets dejected as he fears losing friends and relatives as a consequence of the Mahabharata war. In the initial sections of Chapter Two, Lord Krishna consoles Arjuna.
-- The KJV sections 62% - 67% is a section comprising of highly negative sentiments. These sections comprise of:
+- The KJV sections 62% - 67% comprise of highly negative sentiments. These sections refer to:
   * _Jeremiah_, the most persecuted prophet of the Bible, with features stressing on repentance and prophecy [<sup>1</sup>](https://www.christiancourier.com/articles/747-marvelous-book-of-jeremiah-the)
   * _Lamentations_, poetic laments for the destruction of Jerusalem [<sup>2</sup>](https://en.wikipedia.org/wiki/Book_of_Lamentations)
-- In The Holy Quran the section 70%- 75% are also highly negative. This section refers to _Surah: Al Maidah_ verse: 27 to verse: 92 which comprises three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians. [<sup>3</sup>](http://englishtafsir.com/Quran/5/index.html)
+- In The Holy Quran has sections 70%- 75% that are highly negative. These sections refer to _Surah: Al Maidah_ verse: 27 to verse: 92 that has three main topics: Commandments and instructions about life of Muslims, admonition to the Muslims and admonition to the Jews and the Christians. [<sup>3</sup>](http://englishtafsir.com/Quran/5/index.html)
 
 ### Negative vs Positive sentiments
 
@@ -48,11 +48,11 @@ Clearly, from the above plot, there are common ideas across these religions. Let
 
 ### Differentiators of each text (TF-IDF)
 
-Moving away from sentiments, lets see what words that are unique to each text. For this purpose, we would use [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) which is a statistical measure to determine the importance of a word to a specific document compared to its existence in other documents.
+Moving away from sentiments, lets see what words are unique to each text. For this purpose, we would use [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) which is a statistical measure to determine the importance of a word to a specific document compared to its existence in other documents.
 
 ![Topuniquewords](/assets/images/Top Unqiue words.jpeg)
 
-As expected these unique word are mostly nouns. However it helps to shed light on some major ideas that are unique to each religion. ‘Renunciation’, ‘Self-knowledge’, ‘intellect’ are some of the recurring ideas in Hinduism. It also points out the archaic usage of the word ‘spake’ in The King James Bible. The Quran has its most of its unique ideas around Allah being the protector, oft-forgiving correctly identified. It would be easier to catch on the unique ideas from The Tao Te Ching since it does not have any character names/ proper nouns.
+As expected these unique word are mostly nouns. However it also helps to shed some light on some major ideas that are unique to each religion. ‘Renunciation’, ‘Self-knowledge’, ‘intellect’ are some of the recurring ideas in Hinduism. It also points out the archaic usage of the word ‘spake’ in The King James Bible. The Quran has its most of its unique ideas around Allah being the protector, oft-forgiving correctly identified. It would be easier to catch on the unique ideas from The Tao Te Ching since it does not have any character names/ proper nouns.
 
 ### Associations among words
 
