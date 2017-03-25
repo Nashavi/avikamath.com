@@ -10,7 +10,7 @@ comments: true
 updated: 2017-03-07
 ---
 
-**The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching!** These 4 religious texts come from 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. These religions have evolved over time, defined cultures and to a certain extent even defined political boundries. Have these realigions really been so well-defined and different from each other? Dont they all have the same philosophies? Dont they all emphasise on similar ideas? I wanted to make a comparative analysis of these 4 texts, understand the ideas they emphasise on, extract sentiments and associations. Enter text analytics!
+**The Bhagavad Gita, The King James Bible, The Quran and The Tao Te Ching!** These 4 religious texts come from 7 major religions of the world and over [70% of the world population](https://en.wikipedia.org/wiki/List_of_religious_populations) believe them to be a guide to live life by. These religions have evolved over time, defined cultures and to a certain extent even defined political boundaries. Have these religions really been so well-defined and different from each other? Don't they all have the same philosophies? Don't they all emphasize on similar ideas? I wanted to make a comparative analysis of these 4 texts, understand the ideas they emphasize on, extract sentiments and associations. Enter text analytics!
 
 {% include toc title="Text Mining Religious Books" icon="file-text" %}
 
