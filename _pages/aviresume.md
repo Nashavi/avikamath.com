@@ -7,13 +7,13 @@ author_profile: true
 
 ## PROFESSIONAL PROFILE
 
-Data Scientist with experience in building reproducible data analysis and building effective models in production quality code
-Hands-on experience in data mining, extraction, data exploration, visualization, design of experiments (A/B testing)
-In-depth understanding of advanced machine learning concepts and building deep learning algorithms
-Experience working with both structured as well as unstructured data related to multiple avenues of business
-Experience working on multiple pet projects in recommendation models, deep learning using TensorFlow and Keras
-Experience includes writing highly complex yet optimized SQL/ SQL-like, Spark-SQL queries to analyze data from Hadoop
-Additional experience gained from actively involved in machine learning forums, Kaggle competitions and attending ML, AI
+-	Data Scientist with experience in building reproducible data analysis and building effective models in production quality code
+-	Hands-on experience in data mining, extraction, data exploration, visualization, design of experiments (A/B testing)
+-	In-depth understanding of advanced machine learning concepts and building deep learning algorithms
+-	Experience working with both structured as well as unstructured data related to multiple avenues of business
+-	Experience working on multiple pet projects in recommendation models, deep learning using TensorFlow and Keras
+-	Experience includes writing highly complex yet optimized SQL/ SQL-like, Spark-SQL queries to analyze data from Hadoop
+-	Additional experience gained from actively involved in machine learning forums, Kaggle competitions and attending ML, AI
 and deep learning conferences/ meetups 
   
   
